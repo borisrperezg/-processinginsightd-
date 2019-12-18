@@ -20,7 +20,7 @@ public class Util {
 	 * @return
 	 */
 	public static String getExcelFile(String country) {
-		String file = "../processinginsightd_datasource/InsighTD-"+country+"(Respuestas).xlsx";		
+		String file = "datasource/InsighTD-"+country+"(Respuestas).xlsx";		
 		return file;
 	}
 	
