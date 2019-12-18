@@ -1,0 +1,64 @@
+Adoption of agile methodology|Methodology
+Architecture reviewing|Development Issues
+Devops|Development Issues
+Automatic testing|Methodology
+Backlog item|Development Issues
+Burndown chart|Planning and management
+Code coverage (Reports)|Development Issues
+Code review|Methodology
+Continuos integration|Methodology
+Contract arrangement changes|Development Issues
+Dashboard|Planning and management
+Deeply follow-up|Planning and management
+Definition of new test sets|Methodology
+Documentation audit|Methodology
+Evaluation of proposals/strategies|Methodology
+Expert user|External factors
+External players|External factors
+External tools|External factors
+Future stoppers reports|Planning and management
+Improve documentation|Organizational
+Improving software development process|Methodology
+Meetings with client|External factors
+Metrics|Methodology
+Parallel schedule|Planning and management
+Planning strategy|Planning and management
+Progress reports|Planning and management
+Pull request monitoring|Development Issues
+Qualified professionals|Organizational
+Quality validation (meetings)|Planning and management
+Regular meetings|Methodology
+Responsible person assigned|Organizational
+Support from project management|Planning and management
+TD checklist|Methodology
+TD estimation|Methodology
+TD Stories|Methodology
+Team daily meetings|Planning and management
+Team restructuring|Organizational
+Team weekly meetings|Planning and management
+Training|Organizational
+Continuos changes in management|Planning and management
+Cost|Planning and management
+Focus on functionality|Planning and management
+Focus on the release|Planning and management
+Inaccurate time estimate|Planning and management
+Involved in new projects|External factors
+Lack of experience|Lack of knowledge
+Lack of impact understanding|Planning and management
+Lack of interest by the client|People
+Lack of interest by the team|People
+Lack of knowledge|Lack of knowledge
+Lack of organizational culture|Organizational
+Lack of planning|Planning and management
+Lack of resources|Planning and management
+Lack of specific team|Organizational
+Lack of TI governance|Methodology
+Lack of time|Planning and management
+N/A|Not defined
+Not a monitoring strategy|Not defined
+Not defined|Not defined
+Not interested by project manager|Planning and management
+Product delivered|Planning and management
+React when become a problem|Planning and management
+TD not considered as a problem|Methodology
+Team overload|People
